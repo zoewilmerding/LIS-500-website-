@@ -111,3 +111,7 @@ article p {
 article + article {
     border-top: 2px solid #eee;
 }
+
+.kbText {
+     float: left;
+}
