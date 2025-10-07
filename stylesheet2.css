@@ -93,6 +93,7 @@ article {
     margin-bottom: 40px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: auto;
 }
 
 article h2 {
@@ -101,6 +102,7 @@ article h2 {
     text-align: center;
     color: #F9C0C0; /* Pink text */
     margin-bottom: 20px;
+    overflow: auto;
 }
 
 article p {
@@ -112,6 +114,7 @@ article p {
 /* Specific Styling for Each Goal Section */
 .mart2 {
     margin-top: 20px;
+    overflow: auto;
 }
 
 /* Adding a subtle border to separate sections */
